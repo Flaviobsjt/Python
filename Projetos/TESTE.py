@@ -11,7 +11,6 @@ cor4 = "#ECEFF1" #cizenta
 cor5 = "#FFAB40" #laranja
 
 
-
 janela =Tk()
 janela.title("Mini Calculadora")
 janela.geometry("235x310")
