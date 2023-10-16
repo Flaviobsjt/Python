@@ -107,4 +107,3 @@ b_18.place(x=177, y=208)
 
 
 janela.mainloop()
-
